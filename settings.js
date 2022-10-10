@@ -10,8 +10,8 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
+global.owner = ['62895385156559']
+global.premium = ['62895385165989']
 global.ownernomer = '6282279915237'
 global.ownername = 'Lexxy Official'
 global.botname = 'KaguraMD'
